@@ -12,6 +12,7 @@ requests
 beautifulsoup4
 curl_cffi
 rapidfuzz
+country_converter
 kaggle
 jupyter
 nbconvert
