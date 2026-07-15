@@ -1,0 +1,17 @@
+pandas
+numpy
+scipy
+scikit-learn
+umap-learn
+hdbscan
+matplotlib
+seaborn
+plotly
+statsmodels
+requests
+beautifulsoup4
+curl_cffi
+rapidfuzz
+kaggle
+jupyter
+nbconvert
